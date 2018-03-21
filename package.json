@@ -1,0 +1,14 @@
+{
+  "name": "gamer-bot-discord",
+  "version": "0.1.0",
+  "description": "Simple bot that will give you some good games recommendations.",
+  "main": "index.js",
+  "repository": "http://github.com/victoralvess/gamer-bot-discord",
+  "author": "Victor Alves <vsilva.programador@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "igdb-api-node": "^3.1.3"
+  }
+}
